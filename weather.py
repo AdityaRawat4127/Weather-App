@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 
 base_url="https://api.openweathermap.org/data/2.5/weather"
 
-apikey="364e8458055b54f1290030a47492f127"
+apikey=" " # ENTER YOUR API KEY HERE
 
 def get_weather():
     place=entry1.get()
